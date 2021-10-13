@@ -1,7 +1,7 @@
 [
   {
     "full_name": "Khan/tota11y",
-    "stargazers_count": 4817,
+    "stargazers_count": 4822,
     "open_issues_count": 57,
     "forks_count": 300
   },
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 146242,
-    "open_issues_count": 246,
-    "forks_count": 27027
+    "stargazers_count": 146546,
+    "open_issues_count": 249,
+    "forks_count": 27091
   },
   {
     "full_name": "ReactTraining/react-workshop",
@@ -43,15 +43,15 @@
   },
   {
     "full_name": "css-modules/css-modules",
-    "stargazers_count": 15405,
+    "stargazers_count": 15414,
     "open_issues_count": 113,
     "forks_count": 519
   },
   {
     "full_name": "facebook/create-react-app",
-    "stargazers_count": 90742,
-    "open_issues_count": 1256,
-    "forks_count": 22940
+    "stargazers_count": 90823,
+    "open_issues_count": 1267,
+    "forks_count": 22963
   },
   {
     "full_name": "sjproctor/cat-tinder-buildout",
@@ -63,13 +63,13 @@
     "full_name": "LEARNAcademy/Syllabus",
     "stargazers_count": 8,
     "open_issues_count": 0,
-    "forks_count": 97
+    "forks_count": 98
   },
   {
     "full_name": "vercel/hyper",
-    "stargazers_count": 36916,
-    "open_issues_count": 720,
-    "forks_count": 3042
+    "stargazers_count": 36973,
+    "open_issues_count": 721,
+    "forks_count": 3048
   },
   {
     "full_name": "vivshaw/my-reads",
@@ -85,21 +85,21 @@
   },
   {
     "full_name": "fukamachi/clack",
-    "stargazers_count": 895,
+    "stargazers_count": 896,
     "open_issues_count": 28,
     "forks_count": 84
   },
   {
     "full_name": "vlime/vlime",
-    "stargazers_count": 303,
+    "stargazers_count": 304,
     "open_issues_count": 28,
     "forks_count": 25
   },
   {
     "full_name": "chantastic/reactpatterns",
-    "stargazers_count": 1682,
+    "stargazers_count": 1683,
     "open_issues_count": 5,
-    "forks_count": 104
+    "forks_count": 105
   },
   {
     "full_name": "romabash/angular-d3",
@@ -109,21 +109,21 @@
   },
   {
     "full_name": "tuchk4/awesome-create-react-app",
-    "stargazers_count": 1336,
+    "stargazers_count": 1337,
     "open_issues_count": 5,
     "forks_count": 101
   },
   {
     "full_name": "majodev/google-webfonts-helper",
-    "stargazers_count": 8586,
+    "stargazers_count": 8598,
     "open_issues_count": 74,
-    "forks_count": 297
+    "forks_count": 299
   },
   {
     "full_name": "insin/nwb",
-    "stargazers_count": 5403,
-    "open_issues_count": 165,
-    "forks_count": 363
+    "stargazers_count": 5408,
+    "open_issues_count": 164,
+    "forks_count": 362
   },
   {
     "full_name": "romabash/sudoku-solver",
@@ -133,15 +133,15 @@
   },
   {
     "full_name": "rails/rails",
-    "stargazers_count": 49184,
-    "open_issues_count": 646,
-    "forks_count": 19749
+    "stargazers_count": 49213,
+    "open_issues_count": 649,
+    "forks_count": 19768
   },
   {
     "full_name": "samshadwell/TrumpScript",
     "stargazers_count": 7384,
     "open_issues_count": 5,
-    "forks_count": 409
+    "forks_count": 408
   },
   {
     "full_name": "rajkissu/brainfuck",
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "Homebrew/legacy-homebrew",
-    "stargazers_count": 27465,
+    "stargazers_count": 27460,
     "open_issues_count": 0,
-    "forks_count": 11931
+    "forks_count": 11929
   },
   {
     "full_name": "jhu-ep-coursera/fullstack-course5",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "snapappointments/bootstrap-select",
-    "stargazers_count": 9388,
+    "stargazers_count": 9389,
     "open_issues_count": 290,
-    "forks_count": 2695
+    "forks_count": 2697
   },
   {
     "full_name": "mediaelement/mediaelement",
-    "stargazers_count": 7713,
-    "open_issues_count": 168,
-    "forks_count": 1608
+    "stargazers_count": 7718,
+    "open_issues_count": 169,
+    "forks_count": 1607
   }
 ]
